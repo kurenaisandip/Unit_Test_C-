@@ -1,0 +1,6 @@
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/bin/Debug/InsuranceCalculator.exe
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/bin/Debug/InsuranceCalculator.pdb
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/obj/Debug/InsuranceCalculator.csproj.AssemblyReference.cache
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/obj/Debug/InsuranceCalculator.csproj.CoreCompileInputs.cache
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/obj/Debug/InsuranceCalculator.exe
+/home/sandip/RiderProjects/TestProject2/InsuranceCalculator/obj/Debug/InsuranceCalculator.pdb
